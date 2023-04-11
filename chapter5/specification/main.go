@@ -13,7 +13,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/shirdonl/goDesignPattern/chapter6/specification/example"
+	"github.com/shirdonl/goDesignPattern/chapter5/specification/example"
 )
 
 func main() {

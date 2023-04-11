@@ -12,7 +12,7 @@
 package workspace
 
 import (
-	"github.com/shirdonl/goDesignPattern/chapter6/ddd/app/workplace/collection"
+	"github.com/shirdonl/goDesignPattern/chapter5/ddd/app/workplace/collection"
 	"time"
 )
 

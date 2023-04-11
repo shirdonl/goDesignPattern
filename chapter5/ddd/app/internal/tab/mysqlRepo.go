@@ -13,7 +13,7 @@ package tab
 
 import (
 	"fmt"
-	"github.com/shirdonl/goDesignPattern/chapter6/ddd/app/workplace/collection/tab"
+	"github.com/shirdonl/goDesignPattern/chapter5/ddd/app/workplace/collection/tab"
 )
 
 //这里是一个 MySQL 实现

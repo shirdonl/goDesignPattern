@@ -13,7 +13,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/shirdonl/goDesignPattern/chapter6/specification/actualCombat"
+	"github.com/shirdonl/goDesignPattern/chapter5/specification/actualCombat"
 )
 
 func main() {
